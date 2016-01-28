@@ -1,17 +1,47 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+}
 
 .header-item {
-  margin-right: 15px;
+  margin-right: 25px;
   float: right;
 }
 
+.center {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 100px;
+    clear: both;
+
+}
+
+.section_item {
+  padding: 20px;
+}
+
+.submit_button {
+  background: #F2F2F2;
+}
+
+button:hover {
+
+}
+
 #profile_pic {
-  height: 40px;
-  width: 40px;
+  height: 32px;
+  width: 33.6px;
   border-radius: 100%;
+}
+
+#search_bar {
+  border-color:  #0266C8;
+  height: 38;
+  width: 443;
 }
 
 td {
   background: black;
-  height: 9px;
-  width: 9px;
+  height: 5px;
+  width: 5px;
 }
