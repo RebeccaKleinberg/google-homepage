@@ -1,0 +1,17 @@
+
+.header-item {
+  margin-right: 15px;
+  float: right;
+}
+
+#profile_pic {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+}
+
+td {
+  background: black;
+  height: 9px;
+  width: 9px;
+}
